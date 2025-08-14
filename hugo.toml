@@ -1,4 +1,4 @@
-baseURL = "https://yourusername.github.io/"
+baseURL = "https://LearnAL0T.github.io/"
 title = "LAL"
 theme = "PaperMod"
 enableEmoji = true  # 允许使用emoji
