@@ -1,0 +1,13 @@
+/* 强制覆盖 PaperMod 的默认变量 */
+:root {
+    --main-width: 1200px !important;
+    --content-width: 1100px !important;
+}
+/* 直接覆盖所有可能的选择器 */
+body .main {
+    max-width: 1200px !important;
+    width: 100% !important;
+}
+body .post-content {
+    max-width: 1100px !important;
+}
