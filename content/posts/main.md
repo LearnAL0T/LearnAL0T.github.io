@@ -5,7 +5,10 @@ math: true  # 启用公式支持
 ## 麦克斯韦方程组
 
 $$
-\nabla \cdot \mathbf{E} = \frac{\rho}{\epsilon_0}
+\begin{align}
+\nabla \cdot \mathbf{E} &= \frac{\rho}{\epsilon_0} \notag \\
+\alpha_1 &= 3.1415926 \notag
+\end{align}
 $$
 
 ## 一阶线性方程
