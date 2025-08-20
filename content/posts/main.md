@@ -4,11 +4,11 @@ math: true  # 启用公式支持
 ---
 ## 麦克斯韦方程组
 $$
-\begin{align}
+\begin{aligned}
 \nabla \cdot \mathbf{E} &= \frac{\rho}{\epsilon_0} \\
-\mathbf{S}_{ij} &= \mathbf{S}_{ij} \alpha_{ij} + K^T V \\
-x&=123456
-\end{align}
+\bold{S}_{ij} &= \bold{S}_{ij} \alpha_{ij} + K^T V \\
+x &= 123456
+\end{aligned}
 $$
 
 ## 一阶线性方程
