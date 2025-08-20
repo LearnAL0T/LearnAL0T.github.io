@@ -4,9 +4,11 @@ math: true  # 启用公式支持
 ---
 ## 麦克斯韦方程组
 $$
-\nabla \cdot \mathbf{E} = \frac{\rho}{\epsilon_0}
-\bold{S}_{ij} = \bold{S}_{ij} \alpha_{ij} + K^TV
-123456
+\begin{align}
+\nabla \cdot \mathbf{E} &= \frac{\rho}{\epsilon_0} \\
+\bold{S}_{ij} &= \bold{S}_{ij} \alpha_{ij} + K^TV \\
+&123456
+\end{align}
 $$
 
 ## 一阶线性方程
