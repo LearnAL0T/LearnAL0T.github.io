@@ -3,9 +3,6 @@ title: "test blog"
 math: true  # 启用公式支持
 ---
 ## 麦克斯韦方程组
-$$
-\alpha_1 = 3.1415926
-$$
 
 $$
 \nabla \cdot \mathbf{E} = \frac{\rho}{\epsilon_0}
