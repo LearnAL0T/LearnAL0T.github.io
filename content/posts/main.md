@@ -6,7 +6,7 @@ math: true  # 启用公式支持
 $$
 \begin{aligned}
 \nabla \cdot \mathbf{E} &= \frac{\rho}{\epsilon_0} \\
-\bold{S}_{ij} &= \bold{S}_{ij} \alpha_{ij} + K^T V \\
+\mathbf{S}_{ij} &= \mathbf{S}_{ij} \alpha_{ij} + K^T V \\
 x &= 123456
 \end{aligned}
 $$
