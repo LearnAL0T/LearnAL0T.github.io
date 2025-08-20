@@ -4,7 +4,7 @@ math: true  # 启用公式支持
 ---
 ## 麦克斯韦方程组
 $$
-\nabla \cdot \mathbf{E} &= \frac{\rho}{\epsilon_0}
+\nabla \cdot \mathbf{E} = \frac{\rho}{\epsilon_0}
 $$
 
 ## 一阶线性方程
